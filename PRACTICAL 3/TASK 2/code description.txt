@@ -1,0 +1,7 @@
+The code represents output when the header file <iostream> is presented as <iostream.h>
+
+the output gives out error as no such file or directory, this is because "iostream.h" is deprecated and not a
+standard header. It was used in older programs before C++ was standardized, Functions like cout were defined inside iostream.h
+
+After C++ got standardized, all these functions like cout got moved into the std namespace. TO adjust to this change, non .h versions of some of these
+headers were introduced and declared as standard headers.
