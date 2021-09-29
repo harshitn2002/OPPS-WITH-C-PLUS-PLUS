@@ -1,5 +1,0 @@
-This program shows what will happen when we dont include the header file "<iostream>" and run the program.
-
-As the output clearly shows that cout function isnt declared. This is because the header files contain functions such as 
-standard I/O functions and other functions too. There are different header files in different languages that have some functions which
-make the program understand what to do.
