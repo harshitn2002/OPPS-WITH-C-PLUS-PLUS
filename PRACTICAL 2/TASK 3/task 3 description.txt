@@ -1,7 +1,0 @@
-The problem with this task was to figure out when upon declaring a character data type variable ‘a’, we try to input “123” and while printing the same gives out “1” only.
-
-Part-1 shows this condition only.
-
-Part-2 explains the correct way it is implemented when we have to input multiple charcters in the variable.
-
-(cin) function only takes one or more correctly the first chracter of the string. In order to counter this problem, we use getline function.
