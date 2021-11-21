@@ -1,0 +1,11 @@
+Major Differences between Structures and Classes in C++ are:
+
+1.) In Structures, if no access specifier is specified, all members are set to 'public' whereas if no access specifier is defined, all members are set to 'private'.
+
+2.) Structure instance is called the 'structure variable', a class instance is called 'object'.
+
+3.) In 'struct', memory is allocated on the stack and in 'class' memory is allocated on the heap.
+
+4.) Structures may have only parameterized constructor while classes it may have all the types of constructors and destructors.
+
+5.) Structures does not support inheritance but Classes support multiple types of inheritances.
