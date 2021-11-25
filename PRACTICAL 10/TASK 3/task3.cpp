@@ -7,7 +7,7 @@ rem(int a,int b)
 {
   this->a=a;
   this->b=b;
-  cout<<this->a/this->b;
+  cout<<this->a%this->b;
 }
 };
 int main()
